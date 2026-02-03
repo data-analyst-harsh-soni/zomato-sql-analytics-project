@@ -19,6 +19,28 @@ The goal of this project is to simulate **real-world, industry-level data analys
 
 ---
 
+## 🧩 Entity Relationship Diagram (ER Diagram)
+
+The following ER diagram represents the relational structure of the Zomato food delivery database.  
+It illustrates how **customers**, **restaurants**, **orders**, **deliveries**, and **riders** are interconnected using **primary keys** and **foreign keys**.
+
+![Zomato ER Diagram](ER-Diagram.png)
+
+### 🔗 Relationship Overview
+- **Customers → Orders** (One-to-Many)
+- **Restaurants → Orders** (One-to-Many)
+- **Orders → Deliveries** (One-to-One / One-to-Many)
+- **Riders → Deliveries** (One-to-Many)
+
+### 🧠 Design Rationale
+- The **Orders** table acts as the central transactional entity
+- Referential integrity is enforced using foreign key constraints
+- The schema supports advanced analytics such as revenue trends, churn analysis, rider performance, and customer segmentation
+
+This ER design enables scalable, real-world SQL analytics similar to production-grade food delivery platforms like Zomato.
+
+---
+
 ## 📊 SQL Queries & Outputs
 
 ### **Query 1: Top 3 Dishes by Customer**
