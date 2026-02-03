@@ -80,7 +80,7 @@ ORDER BY 3 DESC;
 
 **Output:**
 
-![Query 2 Output](dashboard/o2.png)
+![Query 2 Output](Output/o2.png)
 
 ## 🧠 Insight
 
@@ -153,7 +153,7 @@ LIMIT 5;
 
 **Output:**
 
-![Query 4 Output](dashboard/o4.png)
+![Query 4 Output](Output/o4.png)
 
 ## 🧠 Insight
 
