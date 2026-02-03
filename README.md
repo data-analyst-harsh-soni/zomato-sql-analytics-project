@@ -60,7 +60,7 @@ WHERE Ranks <= 3;
 
 ## Output:
 
-![Query 1 Output](dashboard/o1.png)
+![Query 1 Output](Output/o1.png)
 
 ---
 
@@ -114,7 +114,7 @@ ORDER BY 2 DESC;
 
 **Output:**
 
-![Query 3 Output](dashboard/o3.png)
+![Query 3 Output](Output/o3.png)
 
 ## 🧠 Insight
 
@@ -191,7 +191,7 @@ ORDER BY 2 DESC;
 
 **Output:**
 
-![Query 5 Output](dashboard/o5.png)
+![Query 5 Output](Output/o5.png)
 
 ## 🧠 Insight
 
@@ -240,7 +240,7 @@ ORDER BY city;
 
 **Output:**
 
-![Query 6 Output](dashboard/o6.png)
+![Query 6 Output](Output/o6.png)
 
 ## 🧠 Insight (Revenue & City Performance)
 
@@ -282,7 +282,7 @@ ORDER BY city;
 
 **Output:**
 
-![Query 7 Output](dashboard/o7.png)
+![Query 7 Output](Output/o7.png)
 
 ## 🧠 Insight (City-Level Demand Analytics)
 
@@ -321,7 +321,7 @@ ORDER BY 1;
 
 **Output:**
 
-![Query 8 Output](dashboard/o8.png)
+![Query 8 Output](Output/o8.png)
 
 ## 🧠 Insight (Churn & Retention Focused)
 
@@ -418,7 +418,7 @@ LEFT JOIN Current_Year_Data c
 
 **Output:**
 
-![Query 9 Output](dashboard/o9.png)
+![Query 9 Output](Output/o9.png)
 
 ## 🧠 Insight (Operations & Quality Control)
 
@@ -466,7 +466,7 @@ ORDER BY
 
 **Output:**
 
-![Query 10 Output](dashboard/o10.png)
+![Query 10 Output](Output/o10.png)
 
 ## 🧠 Insight (Rider Performance & Delivery Efficiency)
 
@@ -534,7 +534,7 @@ ORDER BY restaurant_id, sort_month;
 
 **Output:**
 
-![Query 11 Output](dashboard/o11.png)
+![Query 11 Output](Output/o11.png)
 
 ## 🧠 Insight (Restaurant Growth & Demand Trends)
 
@@ -592,7 +592,7 @@ ORDER BY cs.total_spent DESC;
 
 **Output:**
 
-![Query 12 Output](dashboard/o12.png)
+![Query 12 Output](Output/o12.png)
 
 ## 🧠 Insight (Customer Segmentation – Gold vs Silver)
 
@@ -634,7 +634,7 @@ ORDER BY
 
 **Output:**
 
-![Query 13 Output](dashboard/o13.png)
+![Query 13 Output](Output/o13.png)
 
 ## 🧠 Insight (Rider Earnings & Incentive Planning)
 
@@ -693,7 +693,7 @@ order by 2;
 
 **Output:**
 
-![Query 14 Output](dashboard/o14.png)
+![Query 14 Output](Output/o14.png)
 
 ## 🧠 Insight (Rider Performance & Quality Control)
 
@@ -744,7 +744,7 @@ ORDER BY
 
 **Output:**
 
-![Query 15 Output](dashboard/o15.png)
+![Query 15 Output](Output/o15.png)
 
 ## 🧠 Insight (Demand Patterns & Operational Planning)
 
@@ -781,7 +781,7 @@ ORDER BY
 
 **Output:**
 
-![Query 16 Output](dashboard/o16.png)
+![Query 16 Output](Output/o16.png)
 
 ## 🧠 Insight (Customer Lifetime Value & Retention Strategy)
 
@@ -827,7 +827,7 @@ ORDER BY month_year;
 
 **Output:**
 
-![Query 17 Output](dashboard/o17.png)
+![Query 17 Output](Output/o17.png)
 
 ## 🧠 Insight (Monthly Sales Trends & Revenue Momentum)
 
@@ -882,7 +882,7 @@ FROM avg_time;
 
 **Output:**
 
-![Query 18 Output](dashboard/o18.png)
+![Query 18 Output](Output/o18.png)
 
 ## 🧠 Insight (Rider Performance & Operational Efficiency)
 
@@ -948,7 +948,7 @@ WHERE rank_by_season BETWEEN 1 AND 3;
 
 **Output:**
 
-![Query 19 Output](dashboard/o19.png)
+![Query 19 Output](Output/o19.png)
 
 ## 🧠 Insight (Seasonal Demand & Menu Optimization)
 
@@ -1030,7 +1030,7 @@ ORDER BY  customer_id;
 
 **Output:**
 
-![Query 20 Output](dashboard/o20.png)
+![Query 20 Output](Output/o20.png)
 
 ## 🧠 Insight (Customer Behavior & Retention Analytics)
 
