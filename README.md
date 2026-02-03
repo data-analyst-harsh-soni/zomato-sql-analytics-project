@@ -45,6 +45,12 @@ GROUP BY 1,2,3
 ORDER BY 4 DESC) as t
 WHERE Ranks <= 3;
 ```
+
+
+
+## Output:
+
+![Query 1 Output](Output/o1.png)
 ## 🧠 Insight
 
 - **Customer "Indrajit Gara" shows a strong preference for a small set of dishes**
@@ -56,11 +62,6 @@ WHERE Ranks <= 3;
 - **Top dishes can be bundled or offered with personalized discounts** to increase retention
 - **High-demand dishes should be prioritized in inventory planning**
 - **Ordering patterns can be leveraged in recommendation systems** to optimize sales
-
-
-## Output:
-
-![Query 1 Output](Output/o1.png)
 
 ---
 
