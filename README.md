@@ -21,9 +21,6 @@ The goal of this project is to simulate **real-world, industry-level data analys
 
 ## 🧩 Entity Relationship Diagram (ER Diagram)
 
-The following ER diagram represents the relational structure of the Zomato food delivery database.  
-It illustrates how **customers**, **restaurants**, **orders**, **deliveries**, and **riders** are interconnected using **primary keys** and **foreign keys**.
-
 ![Zomato ER Diagram](ER-Diagram.png)
 
 ### 🔗 Relationship Overview
